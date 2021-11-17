@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Sole (Soledad Galli) 👋
 
-<!--
-**solegalli/solegalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science, book author and machine learning instructor. ✨
 
-Here are some ideas to get you started:
+I am also the creator and maintainer of [**Feature-engine**](https://github.com/feature-engine/feature_engine). 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about learning and teaching topics related to data science, machine learning and AI software engineering in Python. 
+
+If you want o learn more about machine learning, check my [online courses](https://www.trainindata.com/#courses) and my book: [Python Feature Engineering Cookbook]( https://packt.link/python)  ⚡
+
+I'm currently dedicating a high percentage of my time to [**Feature-engine**](https://github.com/feature-engine/feature_engine) and to creating new courses on machine learning. At the same time, I talk about Feature-engine and machine learning in general through blogs, talks and podcasts. 
+
+If [**Feature-engine**](https://github.com/feature-engine/feature_engine) is useful for your **organization**, consider sponsoring my work. ☕
+
+You can find me on:
+
+* [Train in Data](https://www.trainindata.com/)
+* [Twitter](https://twitter.com/Soledad_Galli)
+* [LinkedIn](https://de.linkedin.com/in/soledad-galli)
+* [Medium](https://trainindata.medium.com/)
+* [Kaggle](https://www.kaggle.com/solegalli)
