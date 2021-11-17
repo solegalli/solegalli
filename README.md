@@ -1,6 +1,6 @@
 ### Hi there, I'm Sole (Soledad Galli) 👋
 
-I'm a data science, book author and machine learning instructor. ✨
+I'm a data scientist, book author and machine learning instructor. ✨
 
 I am also the creator and maintainer of [**Feature-engine**](https://github.com/feature-engine/feature_engine). 🚀
 
