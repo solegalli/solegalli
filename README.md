@@ -6,7 +6,7 @@ I am also the creator and maintainer of [**Feature-engine**](https://github.com/
 
 I am passionate about learning and teaching topics related to data science, machine learning and AI software engineering in Python. 
 
-If you want to learn more about machine learning, check my [online courses](https://www.trainindata.com/#courses) and my book: [Python Feature Engineering Cookbook]( https://packt.link/python)  ⚡
+If you want to learn more about machine learning, check my [online courses](https://www.courses.trainindata.com/) and my book: [Python Feature Engineering Cookbook]( https://packt.link/python)  ⚡
 
 I'm currently dedicating a big chunk of my time to [**Feature-engine**](https://github.com/feature-engine/feature_engine) and to creating new courses on machine learning. At the same time, I talk about Feature-engine and machine learning in general through blogs, talks and podcasts. 
 
