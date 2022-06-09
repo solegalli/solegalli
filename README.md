@@ -54,7 +54,7 @@ The open-source libraries I contribute to.
 
 Here, is how you can find me.
 
-| Books | Summary |
+| Media | Summary |
 |---|---|
 | [Train in Data](https://www.trainindata.com/) | Website with our courses |
 | [Twitter](https://twitter.com/Soledad_Galli) | I share latest news about courses and all things machine learning. |
