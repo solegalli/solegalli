@@ -2,11 +2,13 @@
 
 I'm a lead data scientist, book author, machine learning instructor and open source developer. ✨
 
-I started working as a data scientist in 2015, and since then, I came a long way. I've worked in finance and insurance 
-companies, and then in an energy start-up. In 2017, I created and launched my first online course on feature engineering
-for machine learning. I created this course because I saw a gap in the available resources on the topic at that
-time. Since then, I've created more courses on machine learning and also an open-source Python package for feature 
-engineering: [**Feature-engine**](https://github.com/feature-engine/feature_engine). 🚀
+I started working as a data scientist in 2015. I've worked in finance and insurance companies, and then in an 
+energy start-up. I created machine learning models to assess insurance claims, credit risk and prevent fraud.
+
+In 2017, I created and launched my first online course: **Feature Engineering for Machine Learning**. I created 
+this course because I saw a gap in the available resources on the topic at that time. Since then, I've created 
+more courses on machine learning and also an open-source Python package for feature engineering: 
+[**Feature-engine**](https://github.com/feature-engine/feature_engine). 🚀
 
 I am passionate about learning and teaching topics related to data science, machine learning and AI software 
 engineering in Python. 
@@ -37,9 +39,8 @@ available Python libraries. You will have the code at your fingertips.
 
 | Books | Summary |
 |---|---|
-| [**Python feature engineering Cookbook, first edition**](https://packt.link/python) |  More than a 100 Python recipes to implement feature engineering in tabular, transactional, time series and text data. |
+| [**Python feature engineering Cookbook, second edition**](https://packt.link/0ewSo) |  Over 70 code recipes to implement feature engineering in tabular, transactional, time series and text data. |
 | [**Feature selection in machine learning with Python**](https://leanpub.com/feature-selection-in-machine-learning/) |  Over 20 methods to select the most predictive features and build simpler, faster, and more reliable machine learning models. |
-| [**Python feature engineering Cookbook, second edition**](https://github.com/solegalli/Python-Feature-Engineering-Cookbook-Second-Edition) |   |
 
 ## Open-source
 
@@ -47,7 +48,7 @@ The open-source libraries I contribute to.
 
 | Library | About | Role | Sponsor us |
 |---|---|---|---|
-| [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missind data imputation, categorical encoding, vriable transformation and discretization, feature creation and more. | Developer and maintainer | [Sponsor us](https://github.com/sponsors/feature-engine) |
+| [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missind data imputation, categorical encoding, variable transformation and discretization, feature creation and more. | Developer and maintainer | [Sponsor us](https://github.com/sponsors/feature-engine) |
 | [**tsfresh**](https://tsfresh.readthedocs.io/en/latest/) | Automatically create features for time series classification | One time contributor to expand documentation. |  |
 
 
@@ -58,9 +59,18 @@ Here, is how you can find me.
 | Media | Summary |
 |---|---|
 | [Train in Data](https://www.trainindata.com/) | Website with our courses |
-| [Twitter](https://twitter.com/Soledad_Galli) | I share latest news about courses and all things machine learning. |
 | [LinkedIn](https://de.linkedin.com/in/soledad-galli) | I share latest news about courses and all things machine learning. |
-| [Medium](https://trainindata.medium.com/) | Lots of articles about data science, machine learning, feature engineering and selection and more. |
-| [Kaggle](https://www.kaggle.com/solegalli) | Code implementations with demos on how to work with imbalanced data, how to engineer features, how to optimize hyperparameters and more. |
+| [Blog](https://www.blog.trainindata.com/) | Lots of articles about data science, machine learning, feature engineering and selection and more. |
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=solegalli&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=solegalli&&style=flat-square)  
+  
+<br/>
 
 **That's it! I hope to see you around.**
