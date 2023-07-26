@@ -52,7 +52,7 @@ The open-source libraries I contribute to.
 |---|---|---|---|
 | [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missind data imputation, categorical encoding, variable transformation and discretization, feature creation and more. | Developer and maintainer | [Sponsor us](https://github.com/sponsors/feature-engine) |
 | [**tsfresh**](https://tsfresh.readthedocs.io/en/latest/) | Automatically create features for time series classification | One time contributor to expand documentation. |  |
-| [**imbalanced-learn**]([https://tsfresh.readthedocs.io/en/latest/](https://imbalanced-learn.org/stable/)) | Tools for under- and over-sampling and dealing with imbalanced data | Multiple PRs to improve documentation. |  |
+| [**imbalanced-learn**](https://tsfresh.readthedocs.io/en/latest/](https://imbalanced-learn.org/stable/) | Tools for under- and over-sampling and dealing with imbalanced data | Multiple PRs to improve documentation. |  |
 
 
 ## Follow me
