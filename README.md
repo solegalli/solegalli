@@ -61,9 +61,11 @@ Here, is how you can find me.
 
 | Media | Summary |
 |---|---|
-| [Train in Data](https://www.trainindata.com/) | Enroll in oOur courses and books |
+| [Train in Data](https://www.trainindata.com/) | Enroll in our courses and books |
 | [LinkedIn](https://linkedin.com/in/soledad-galli) | I talk about data science, machine learning and how to become a data scientist. |
 | [Twitter](https://twitter.com/Soledad_Galli) | I tweet about data science, machine learning and how to become a data scientist.|
+| [Facebook](https://facebook.com/trainindata) | I talk about data science, machine learning and how to become a data scientist.|
+| [Instagram](https://instagram.com/train_in_data) | I post about data science, machine learning and how to become a data scientist.|
 | [Newsletter](http://eepurl.com/hdzffv) | I talk about data science, machine learning and how to become a data scientist. |
 | [Blog](https://www.blog.trainindata.com/) | I write about data science, machine learning, feature engineering and selection and more. |
 
