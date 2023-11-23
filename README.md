@@ -1,24 +1,29 @@
 # Hi! I'm Sole (Soledad Galli) 👋
 
-I'm a lead data scientist, book author, machine learning instructor and open source developer. ✨
+Hey there! 👋 I'm Sole, a seasoned data scientist, published author, and machine learning 
+instructor with a passion for pushing the boundaries of what's possible in the world of data science. ✨
 
-I started working as a data scientist in 2015. I've worked in finance and insurance companies, and then in an 
-energy start-up. I created machine learning models to assess insurance claims, credit risk and prevent fraud.
+In my journey that kicked off in 2015, I've lent my expertise to finance and insurance companies. Here, I 
+honed my skills in crafting robust machine learning models, tackling challenges such as insurance claim 
+assessments, credit risk evaluations, and fraud prevention.
 
-In 2017, I created and launched my first online course: **Feature Engineering for Machine Learning**. I created 
-this course because I saw a gap in the available resources on the topic at that time. Since then, I've created 
-more courses on machine learning and also an open-source Python package for feature engineering: 
-[**Feature-engine**](https://github.com/feature-engine/feature_engine). 🚀
+In 2017, I pioneered my first online course, **'Feature Engineering for Machine Learning.'** Recognizing a 
+gap in resources at the time, I've since expanded my course offerings, delving into diverse aspects of machine 
+learning. Additionally, I've given life to an open-source Python gem: [**Feature-engine**](https://github.com/feature-engine/feature_engine). 🚀
 
-I am passionate about learning and teaching topics related to data science, machine learning and AI software 
-engineering in Python. 
+Currently, I'm pouring my energy into advancing [**Feature-engine**](https://github.com/feature-engine/feature_engine) 
+and creating new, impactful [**courses on machine learning**](https://www.trainindata.com).
 
-I'm currently dedicating to expanding [**Feature-engine**](https://github.com/feature-engine/feature_engine) and to 
-creating new courses on machine learning. I frequenly talk about Feature-engine and machine learning in general 
-through blogs, talks and podcasts.
+You'll often find me sharing insights about Feature-engine and the broader machine learning landscape through blogs, 
+talks, and podcasts. 
 
-If [**Feature-engine**](https://github.com/feature-engine/feature_engine) is useful for your **organization**, consider 
-[sponsoring my work](https://github.com/sponsors/feature-engine). ☕
+If you discover that [**Feature-engine**](https://github.com/feature-engine/feature_engine) brings value to your work 
+or learning journey, consider [sponsoring my efforts](https://github.com/sponsors/feature-engine) or enrolling in
+my [**courses**](https://www.trainindata.com). 
+
+Your support goes a long way in fueling the growth of valuable resources and impactful courses for the community.
+
+Excited to connect, collaborate, and learn together! 🌟"
 
 ## Online Courses
 
@@ -36,8 +41,8 @@ Check out the courses that we teach. Courses are up to date and work with the la
 
 ## Books
 
-Find out more about machine learning. In my books I implement multiple feature engineering techniques with 
-available Python libraries. You will have the code at your fingertips.
+Discover plenty of feature engineering and feature selection techniques in my books, where I seamlessly integrate
+plenty of methods using readily available Python libraries.
 
 | Books | Summary |
 |---|---|
@@ -46,7 +51,7 @@ available Python libraries. You will have the code at your fingertips.
 
 ## Open-source
 
-The open-source libraries I contribute to.
+I actively contribute to open-source libraries as part of my commitment to fostering collaborative innovation and enhancing accessibility in the realm of data science and machine learning.
 
 | Library | About | Role | Sponsor us |
 |---|---|---|---|
@@ -57,7 +62,7 @@ The open-source libraries I contribute to.
 
 ## Follow me
 
-Here, is how you can find me.
+Stay connected and follow me across these platforms to stay updated on the latest in data science and machine learning:
 
 | Media | Summary |
 |---|---|
