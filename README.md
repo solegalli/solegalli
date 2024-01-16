@@ -25,6 +25,8 @@ Your support goes a long way in fueling the growth of valuable resources and imp
 
 Excited to connect, collaborate, and learn together! 🌟"
 
+[<img src="https://raw.githubusercontent.com/trainindata/.github/main/trainindata_banner.png" width="1500">](https://www.trainindata.com)
+
 ## Online Courses
 
 Check out the courses that we teach. Courses are up to date and work with the latest Python library releases!
