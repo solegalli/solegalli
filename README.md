@@ -58,7 +58,7 @@ I actively contribute to open-source libraries as part of my commitment to foste
 
 | Library | About | Role | Sponsor us |
 |---|---|---|---|
-| [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missind data imputation, categorical encoding, variable transformation and discretization, feature creation and more. | Developer and maintainer | [Sponsor us](https://github.com/sponsors/feature-engine) |
+| [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missind data imputation, categorical encoding, variable transformation and discretization, feature creation and more. | Developer and maintainer | [Sponsor me](https://github.com/sponsors/feature-engine) |
 | [**tsfresh**](https://tsfresh.readthedocs.io/en/latest/) | Automatically create features for time series classification | One time contributor to expand documentation. |  |
 | [**imbalanced-learn**](https://imbalanced-learn.org/stable/) | Tools for under- and over-sampling and dealing with imbalanced data | Multiple PRs to improve documentation. |  |
 
@@ -76,6 +76,13 @@ Stay connected and follow me across these platforms to stay updated on the lates
 | [Instagram](https://instagram.com/train_in_data) | I post about data science, machine learning and how to become a data scientist.|
 | [Newsletter](http://eepurl.com/hdzffv) | I talk about data science, machine learning and how to become a data scientist. |
 | [Blog](https://www.blog.trainindata.com/) | I write about data science, machine learning, feature engineering and selection and more. |
+
+<br/>  
+
+## Sponsor me
+
+| :zap:        [Sponsor me](https://github.com/sponsors/solegalli)   |
+|--------------------------------------------------------------------|
 
 <br/>  
 
