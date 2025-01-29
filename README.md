@@ -74,7 +74,6 @@ Stay connected and follow me across these platforms to stay updated on the lates
 | [Newsletter](https://www.trainindata.com/p/data-bites) | I talk about data science, machine learning and how to become a data scientist. |
 | [LinkedIn](https://linkedin.com/in/soledad-galli) | I talk about data science, machine learning and how to become a data scientist. |
 | [BlueSky](https://bsky.app/profile/solegalli.bsky.social) | I post about data science, machine learning and how to become a data scientist.|
-| [Facebook](https://facebook.com/trainindata) | I talk about data science, machine learning and how to become a data scientist.|
 | [Blog](https://www.blog.trainindata.com/) | I write about data science, machine learning, feature engineering and selection and more. |
 
 <br/>  
