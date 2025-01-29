@@ -50,7 +50,7 @@ plenty of methods using readily available Python libraries.
 | Books | Summary |
 |---|---|
 | [**Python feature engineering Cookbook, third edition**](https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587) |  Over 70 code recipes to implement feature engineering in tabular, transactional, time series and text data. |
-| [**Feature selection in machine learning with Python**](https://leanpub.com/feature-selection-in-machine-learning/) |  Over 20 methods to select the most predictive features and build simpler, faster, and more reliable machine learning models. |
+| [**Feature selection in machine learning with Python**](https://www.trainindata.com/p/feature-selection-in-machine-learning-book) |  Over 20 methods to select the most predictive features and build simpler, faster, and more reliable machine learning models. |
 
 ## Open-source
 
