@@ -69,7 +69,7 @@ Stay connected and follow me across these platforms to stay updated on the lates
 |---|---|
 | [Train in Data](https://www.trainindata.com/) | Enroll in our courses and books |
 | [YouTube](https://www.youtube.com/@TraininData) | I post about data science, machine learning and how to become a data scientist.|
-| [Newsletter](https://www.trainindata.com/p/data-bites) | I talk about data science, machine learning and how to become a data scientist. |
+| [Newsletter](https://tech.trainindata.com/) | I talk about data science, machine learning and how to become a data scientist. |
 | [LinkedIn](https://linkedin.com/in/soledad-galli) | I talk about data science, machine learning and how to become a data scientist. |
 | [Blog](https://www.blog.trainindata.com/) | I write about data science, machine learning, feature engineering and selection and more. |
 
