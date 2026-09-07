@@ -1,25 +1,19 @@
 # Hi! I'm Sole (Soledad Galli) 👋
 
-Hey there! 👋 I'm Sole, a seasoned data scientist, published author, and machine learning 
-instructor with a passion for pushing the boundaries of what's possible in the world of data science. ✨
+Hey there! 👋 I'm Sole — I write books and teach courses on feature engineering, feature selection, and
+machine learning, and I maintain the open-source library Feature-engine. Before that, I spent years building
+machine learning models for finance and insurance companies, tackling credit risk, fraud, and claims assessment. ✨
 
-In my journey, which kicked off in 2015, I've lent my expertise to finance and insurance companies. Here, I 
-crafted robust machine learning models to tackle insurance claim assessments, credit risk evaluations, and fraud.
+In 2017, I launched my first online course, **Feature Engineering for Machine Learning**, after spotting a
+gap in the resources available at the time. Since then I've expanded into more courses and books covering
+feature selection, hyperparameter optimization, imbalanced data, forecasting, and interpretability — taught
+alongside other great instructors at our online school [**Train in Data**](https://www.trainindata.com).
 
-In 2017, I pioneered my first online course, **Feature Engineering for Machine Learning**, recognizing a 
-gap in resources at the time. Since then, I've expanded my course offerings, delving into diverse aspects of machine 
-learning. We now host more than 7 courses on advanced machine learning topics, taught by me and other extraordinary instructors,
-which you can find at our online school [**Train in Data**](https://www.trainindata.com).
+I'm currently focused on growing [**Feature-engine**](https://github.com/feature-engine/feature_engine) and
+writing new courses and books. I share what I learn about it — and about machine learning more broadly —
+through blogs, talks, podcasts, and community work.
 
-Additionally, I've given life to the open-source Python library: [**Feature-engine**](https://github.com/feature-engine/feature_engine). 🚀
-
-Currently, I'm pouring my energy into advancing [**Feature-engine**](https://github.com/feature-engine/feature_engine) 
-and creating new, impactful [**courses on machine learning**](https://www.trainindata.com).
-
-You'll often find me sharing insights about Feature-engine and the broader machine learning landscape through blogs, 
-talks, and podcasts. 
-
-Excited to connect, collaborate, and learn together! 🌟"
+Excited to connect, collaborate, and learn together! 🌟
 
 [<img src="https://raw.githubusercontent.com/trainindata/.github/main/trainindata_banner.png" width="1500">](https://www.trainindata.com)
 
@@ -31,23 +25,24 @@ Check out the courses that we teach. Courses are up to date and work with the la
 |---|---|
 | [**Feature engineering for machine learning**](https://courses.trainindata.com/p/feature-engineering-for-machine-learning) |  Learn to create new features, impute missing data, encode categorical variables, transform and discretize features and much more. |
 | [**Feature selection for machine learning**](https://courses.trainindata.com/p/feature-selection-for-machine-learning) |  Learn to select features using wrapper, filter, embedded and hybrid methods, and build simpler and reliable models. |
-| [**Hyperparameter optimization for machine learning**](https://courses.trainindata.com/p/hyperparameter-optimization-for-machine-learning) |  Learn about grid and random search, Bayesian Optimization, Multi-fidelity models, Optuna, Hyperopt, Scikit-Optimize and more. |
+| [**Master Hyperparameter Optimization for Tabular Learning**](https://www.trainindata.com/p/master-hyperparameter-optimization-for-tabular-learning) |  Learn about grid and random search, Bayesian Optimization, Multi-fidelity models, Optuna, Hyperopt, Scikit-Optimize and more. |
 | [**Machine learning with imbalanced data**](https://courses.trainindata.com/p/machine-learning-with-imbalanced-data) |  Learn about under- and over-sampling, ensemble and cost-sensitive methods and improve the performance of models trained on imbalanced data. |
-| [**Feature engineering for time series forecasting**](https://www.courses.trainindata.com/p/feature-engineering-for-forecasting) |  Learn to create lag and window features, impute data in time series, encode categorical variabes and much more, specifically for forecasting. |
+| [**Feature engineering for time series forecasting**](https://www.courses.trainindata.com/p/feature-engineering-for-forecasting) |  Learn to create lag and window features, impute data in time series, encode categorical variables and much more, specifically for forecasting. |
 | [**Forecasting with Machine Learning**](https://www.trainindata.com/p/forecasting-with-machine-learning) |  Learn to perform time series forecasting with machine learning models like linear regression, random forests and xgboost. |
-| [**Machine Learning Interpretability**](https://www.courses.trainindata.com/p/machine-learning-interpretability) |  Learn interpret and explain white-box and black-box models both globally and locally, including methods LIME, SHAP, and more. |
-| [**Clustereing and Dimensionality Reduction**](https://www.trainindata.com/p/clustering-and-dimensionality-reduction) |  Learn to extract information from unlabelled data through clustering and dimensionality reduction techniques. |
+| [**Machine Learning Interpretability**](https://www.courses.trainindata.com/p/machine-learning-interpretability) |  Learn to interpret and explain white-box and black-box models both globally and locally, including methods LIME, SHAP, and more. |
+| [**Clustering and Dimensionality Reduction**](https://www.trainindata.com/p/clustering-and-dimensionality-reduction) |  Learn to extract information from unlabelled data through clustering and dimensionality reduction techniques. |
 
 
 ## Books
 
 Discover plenty of feature engineering and feature selection techniques in my books, where I seamlessly integrate
-plenty of methods using the lastest and most widely used Python libraries.
+plenty of methods using the latest and most widely used Python libraries.
 
 | Books | Summary |
 |---|---|
 | [**Python feature engineering Cookbook, third edition**](https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587) |  Over 70 code recipes to implement feature engineering in tabular, transactional, time series and text data. |
 | [**Feature selection in machine learning,  second edition**](https://www.trainindata.com/p/feature-selection-in-machine-learning-book) |  Over 20 methods to select the most predictive features and build simpler, faster, and more reliable machine learning models. |
+| [**Imbalanced Data: Myths, Mistakes and Modern Solutions**](https://www.trainindata.com/p/imbalanced-data-myths-mistakes-solutions-book) |  A critical look at class imbalance, moving beyond SMOTE and default thresholds toward cost-sensitive learning, proper threshold tuning, and evaluation metrics that reflect real-world requirements. |
 
 ## Open-source
 
@@ -55,7 +50,7 @@ I actively contribute to open-source libraries as part of my commitment to foste
 
 | Library | About | Role |
 |---|---|---|
-| [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missind data imputation, categorical encoding, variable transformation and discretization, feature creation and more. | Maintainer. |
+| [**Feature-engine**](https://github.com/feature-engine/feature_engine) | Multiple transformers for missing data imputation, categorical encoding, variable transformation and discretization, feature creation and more. | Maintainer. |
 | [**tsfresh**](https://tsfresh.readthedocs.io/en/latest/) | Automatically create features for time series classification | Expanded documentation. |
 | [**imbalanced-learn**](https://imbalanced-learn.org/stable/) | Tools for under- and over-sampling and dealing with imbalanced data | Multiple PRs to improve documentation. |
 | [**BorutaPy**](https://github.com/scikit-learn-contrib/boruta_py) | Feature selection using Boruta | Maintainer. |
@@ -76,12 +71,13 @@ Stay connected and follow me across these platforms to stay updated on the lates
 
 <br/>  
 
-## Github Stats  
+## GitHub Stats
 
-<br/>  
+<br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=solegalli&&style=flat-square)  
-  
+![Sole's GitHub stats](https://github-readme-stats.vercel.app/api?username=solegalli&show_icons=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solegalli&layout=compact&theme=default)
+
 <br/>
 
 **That's it! I hope to see you around.**
