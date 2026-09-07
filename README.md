@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/solegalli?label=Follow&style=social)](https://github.com/solegalli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/soledad-galli)
+[![X](https://img.shields.io/badge/X-Follow-000000?logo=x&style=flat-square)](https://x.com/Soledad_Galli)
 
 Hey there! 👋 I'm Sole — I write books and teach courses on feature engineering, feature selection, and
 machine learning, and I maintain the open-source library Feature-engine. Before that, I spent years building
