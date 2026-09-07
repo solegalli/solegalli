@@ -75,8 +75,8 @@ Stay connected and follow me across these platforms to stay updated on the lates
 
 <br/>
 
-![Sole's GitHub stats](https://github-readme-stats.vercel.app/api?username=solegalli&show_icons=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solegalli&layout=compact&theme=default)
+![Sole's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solegalli)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solegalli)
 
 <br/>
 
