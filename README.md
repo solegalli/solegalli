@@ -1,5 +1,8 @@
 # Hi! I'm Sole (Soledad Galli) 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/solegalli?label=Follow&style=social)](https://github.com/solegalli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/soledad-galli)
+
 Hey there! 👋 I'm Sole — I write books and teach courses on feature engineering, feature selection, and
 machine learning, and I maintain the open-source library Feature-engine. Before that, I spent years building
 machine learning models for finance and insurance companies, tackling credit risk, fraud, and claims assessment. ✨
@@ -77,6 +80,10 @@ Stay connected and follow me across these platforms to stay updated on the lates
 
 ![Sole's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solegalli)
 ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solegalli)
+
+<br/>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=solegalli&style=flat-square)
 
 <br/>
 
